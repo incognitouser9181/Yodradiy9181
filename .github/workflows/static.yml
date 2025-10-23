@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+
+<html lang="bn">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>শুভ জন্মদিন, ইরা ❤️‍🩹</title>
+
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Playfair+Display:wght@400;600&family=Crimson+Text&display=swap');
+
+    body {
+      margin: 0;
+      background: #f8f2ea url('https://www.transparenttextures.com/patterns/old-wall.png');
+      color: #3c2f2f;
+      font-family: 'Crimson Text', serif;
+      overflow-x: hidden;
+      text-align: center;
+      min-height: 100vh;
+    }
+
+    section {
+      padding: 80px 20px;
+    }
+
+    h1 {
+      font-family: 'Great Vibes', cursive;
+      font-size: 3.2em;
+      color: #b86b77;
+      margin-bottom: 10px;
+      text-shadow: 0 0 10px rgba(184, 107, 119, 0.3);
+    }
